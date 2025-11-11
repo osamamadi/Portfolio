@@ -374,9 +374,8 @@ export default function Portfolio() {
                 <span>Expected Graduation: June 2027</span>
               </div>
               <p className="text-pretty leading-relaxed text-muted-foreground">
-                Software engineering studies focused on modern development, AI, and full-stack web development. I
-                explored algorithms in areas like NLP and LLMs, built real projects and internships, and made the{" "}
-                <strong>Dean's List</strong> in my third year. Some of my projects might surprise you — take a look
+                Software engineering studies focused on modern development, AI, and full-stack web development. Skilled in JavaScript, React, Node.js, Express, MongoDB, MySQL, Python, and Java, with strong understanding of algorithms, databases, and software design principles. Always eager to contribute and made the{" "}
+                <strong>Dean's List</strong> in my third year of studies. Some of my projects might surprise you — take a look
                 below.
               </p>
             </div>
